@@ -52,17 +52,17 @@ global.location = process.env.GL_INFO || "United Kingdom" //ur location
 //________________________________________________________________________________________________________
 global.botname = process.env.BOT_NAME || 'Renbo Wa Bot' //ur bot name
 //________________________________________________________________________________________________________
-global.ownernumber = process.env.SUDO || '+2348092695602' //ur owner number
+global.ownernumber = process.env.SUDO || '2348122389551' //ur owner number
 //________________________________________________________________________________________________________
 global.ownername = process.env.SUDO_NAME || 'Koda // Joshua' //ur owner name
 //________________________________________________________________________________________________________
 global.websitex = process.env.YT_LINK || "https://renbostudios.vercel.app/"
 //________________________________________________________________________________________________________
-global.wagc = process.env.GL_PUSH || "https://whatsapp.com/channel/0029VaINgEZK0IBaK1nDtE3f"
+global.wagc = process.env.GL_PUSH || "https://renbostudios.vercel.app/"
 //________________________________________________________________________________________________________
 global.themeemoji = process.env.GL_EMOJI || '🏮'
 //________________________________________________________________________________________________________
-global.wm = process.env.GL_WM || "© Xʟɪᴄᴏɴ-Iɴᴄ"
+global.wm = process.env.GL_WM || "© ThisIsKoda"
 //________________________________________________________________________________________________________
 global.botscript = process.env.GL_SC || 'https://github.com/salmanytofficial/XLICON-V3-MD' //script link
 //________________________________________________________________________________________________________
