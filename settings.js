@@ -41,7 +41,7 @@ if (fs.existsSync('.env')) require('dotenv').config({ path: __dirname+'/.env' })
 
 //owmner v card
 //________________________________________________________________________________________________________
-global.ytname = process.env.YT_NAME || "Renbo Studios" //ur yt chanel name
+global.ytname = process.env.YT_NAME || "Koda Is Not Real" //ur yt chanel name
 //________________________________________________________________________________________________________
 global.socialm = process.env.MEDIA || "GitHub: renbostudios" //ur github or insta name
 //________________________________________________________________________________________________________
@@ -50,9 +50,9 @@ global.location = process.env.GL_INFO || "United Kingdom" //ur location
 
 //new
 //________________________________________________________________________________________________________
-global.botname = process.env.BOT_NAME || 'Renbo Wa Bot' //ur bot name
+global.botname = process.env.BOT_NAME || "Koda's Bot || Mikuyou" //ur bot name
 //________________________________________________________________________________________________________
-global.ownernumber = process.env.SUDO || '2348122389551' //ur owner number
+global.ownernumber = process.env.SUDO || '+2348122389551' //ur owner number
 //________________________________________________________________________________________________________
 global.ownername = process.env.SUDO_NAME || 'Koda // Joshua' //ur owner name
 //________________________________________________________________________________________________________
@@ -60,7 +60,7 @@ global.websitex = process.env.YT_LINK || "https://renbostudios.vercel.app/"
 //________________________________________________________________________________________________________
 global.wagc = process.env.GL_PUSH || "https://renbostudios.vercel.app/"
 //________________________________________________________________________________________________________
-global.themeemoji = process.env.GL_EMOJI || '🏮'
+global.themeemoji = process.env.GL_EMOJI || '🤡'
 //________________________________________________________________________________________________________
 global.wm = process.env.GL_WM || "© ThisIsKoda"
 //________________________________________________________________________________________________________
@@ -70,7 +70,7 @@ global.packname = process.env.PACK_NAME || "𝐗𝐋𝐈𝐂𝐎𝐍-𝐕𝟑"
 //________________________________________________________________________________________________________
 global.author = process.env.AUTHER_NAME || "ᗰᗩᗪE ᗷY KODA"
 //________________________________________________________________________________________________________
-global.creator = process.env.GL_DEVS || "2348122389551@s.whatsapp.net"
+global.creator = process.env.GL_DEVS || "+2348122389551@s.whatsapp.net"
 //________________________________________________________________________________________________________
 global.xprefix = process.env.PREFIX || '!'
 //________________________________________________________________________________________________________
