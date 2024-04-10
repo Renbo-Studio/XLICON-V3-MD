@@ -50,7 +50,7 @@ global.location = process.env.GL_INFO || "United Kingdom" //ur location
 
 //new
 //________________________________________________________________________________________________________
-global.botname = process.env.BOT_NAME || "Koda's Bot || Mikuyou" //ur bot name
+global.botname = process.env.BOT_NAME || "Seibā || Koda's Bot" //ur bot name
 //________________________________________________________________________________________________________
 global.ownernumber = process.env.SUDO || '+2348122389551' //ur owner number
 //________________________________________________________________________________________________________
@@ -60,7 +60,7 @@ global.websitex = process.env.YT_LINK || "https://renbostudios.vercel.app/"
 //________________________________________________________________________________________________________
 global.wagc = process.env.GL_PUSH || "https://renbostudios.vercel.app/"
 //________________________________________________________________________________________________________
-global.themeemoji = process.env.GL_EMOJI || '🤡'
+global.themeemoji = process.env.GL_EMOJI || '😊'
 //________________________________________________________________________________________________________
 global.wm = process.env.GL_WM || "© ThisIsKoda"
 //________________________________________________________________________________________________________
