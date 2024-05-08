@@ -161,7 +161,7 @@
       "badword": 0,
       "afkReason": "",
       "nick": "Ricky",
-      "premium": "false",
+      "premium": false,
       "limit": 100,
       "totalLimit": 0
     },
@@ -272,6 +272,83 @@
       "afkReason": "",
       "nick": "ꋪꏂ꒯꒯ ꀘꋊ꒐ꍌꁝ꓄ 2",
       "premium": false,
+      "limit": 100,
+      "totalLimit": 0
+    },
+    "2347043302850@s.whatsapp.net": {
+      "serialNumber": "0f37de52801072eb17b0b1843c442ade",
+      "title": "User",
+      "afkTime": -1,
+      "badword": 0,
+      "afkReason": "",
+      "nick": "SpongeBob 💫",
+      "premium": false,
+      "limit": 100,
+      "totalLimit": 0
+    },
+    "2348152917663@s.whatsapp.net": {
+      "serialNumber": "bd9c89aa440b22ae6877387906c799bf",
+      "title": "User",
+      "afkTime": -1,
+      "badword": 0,
+      "afkReason": "",
+      "nick": "Mhikun",
+      "premium": false,
+      "limit": 100,
+      "totalLimit": 0
+    },
+    "2348140589832@s.whatsapp.net": {
+      "serialNumber": "b761e9eb2e316f8d6b7143c7a56feb62",
+      "title": "User",
+      "afkTime": -1,
+      "badword": 0,
+      "afkReason": "",
+      "nick": "Lish Wiel Bē3t Yị3ū☹️",
+      "premium": false,
+      "limit": 100,
+      "totalLimit": 0
+    },
+    "2347046115079@s.whatsapp.net": {
+      "serialNumber": "f362063b77b33a7415f7235952a76131",
+      "title": "User",
+      "afkTime": -1,
+      "badword": 0,
+      "afkReason": "",
+      "nick": "Potato 🥔",
+      "premium": "false",
+      "limit": 100,
+      "totalLimit": 0
+    },
+    "2349066876487@s.whatsapp.net": {
+      "serialNumber": "cdc30fce83f4eeaadfa0692621fcc79b",
+      "title": "User",
+      "afkTime": -1,
+      "badword": 0,
+      "afkReason": "",
+      "nick": "amirlukman250",
+      "premium": false,
+      "limit": 100,
+      "totalLimit": 0
+    },
+    "2347061252656@s.whatsapp.net": {
+      "serialNumber": "6f822ac8c9940fb5024a26b3ecd04052",
+      "title": "User",
+      "afkTime": -1,
+      "badword": 0,
+      "afkReason": "",
+      "nick": "Edozie",
+      "premium": "false",
+      "limit": 100,
+      "totalLimit": 0
+    },
+    "2348105284381@s.whatsapp.net": {
+      "serialNumber": "b154ebd0209268710601e63066ff6e70",
+      "title": "User",
+      "afkTime": -1,
+      "badword": 0,
+      "afkReason": "",
+      "nick": "Babie Ov Abj",
+      "premium": "false",
       "limit": 100,
       "totalLimit": 0
     }
@@ -421,6 +498,24 @@
       "anticontact": false,
       "antilink": false,
       "antilinkgc": false
+    },
+    "120363287317884776@g.us": {
+      "badword": false,
+      "antiforeignnum": false,
+      "antibot": false,
+      "antiviewonce": false,
+      "antivirtex": false,
+      "antimedia": false,
+      "antiimage": false,
+      "antivideo": false,
+      "antiaudio": false,
+      "antipoll": false,
+      "antisticker": false,
+      "antilocation": false,
+      "antidocument": false,
+      "anticontact": false,
+      "antilink": false,
+      "antilinkgc": false
     }
   },
   "game": {
@@ -458,7 +553,7 @@
       }
     },
     "2348092695602@s.whatsapp.net": {
-      "totalhit": 69,
+      "totalhit": 97,
       "totalError": 0,
       "online": false,
       "autosticker": false,
