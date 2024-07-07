@@ -549,6 +549,17 @@
       "premium": "false",
       "limit": 100,
       "totalLimit": 0
+    },
+    "2347065863541@s.whatsapp.net": {
+      "serialNumber": "2b673933d9a5033d529ed8439314c02f",
+      "title": "Premium",
+      "afkTime": -1,
+      "badword": 0,
+      "afkReason": "",
+      "nick": "Joshua Umahi",
+      "premium": "true",
+      "limit": 1000,
+      "totalLimit": 0
     }
   },
   "database": {},
@@ -786,6 +797,24 @@
       "anticontact": false,
       "antilink": false,
       "antilinkgc": false
+    },
+    "2347065863541@s.whatsapp.net": {
+      "badword": false,
+      "antiforeignnum": false,
+      "antibot": false,
+      "antiviewonce": false,
+      "antivirtex": false,
+      "antimedia": false,
+      "antiimage": false,
+      "antivideo": false,
+      "antiaudio": false,
+      "antipoll": false,
+      "antisticker": false,
+      "antilocation": false,
+      "antidocument": false,
+      "anticontact": false,
+      "antilink": false,
+      "antilinkgc": false
     }
   },
   "game": {
@@ -823,7 +852,7 @@
       }
     },
     "2348092695602@s.whatsapp.net": {
-      "totalhit": 112,
+      "totalhit": 119,
       "totalError": 0,
       "online": false,
       "autosticker": false,
